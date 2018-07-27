@@ -1,0 +1,15 @@
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\bin\Debug\AwTestFrameClient.exe.config
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\bin\Debug\AwTestFrameClient.exe
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\bin\Debug\AwTestFrameClient.pdb
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\obj\Debug\AwTestFrameClient.csprojResolveAssemblyReference.cache
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\obj\Debug\AwTestFrameClient.Properties.Resources.resources
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\obj\Debug\AwTestFrameClient.csproj.GenerateResource.Cache
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\obj\Debug\AwTestFrameClient.exe
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\obj\Debug\AwTestFrameClient.pdb
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\bin\Debug\NPOI.dll
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\bin\Debug\NPOI.OOXML.dll
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\bin\Debug\NPOI.OpenXml4Net.dll
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\bin\Debug\NPOI.xml
+D:\xiaoMWork\Project\VS\AwTestFrameClient\AwTestFrameClient\obj\Debug\AwTestFrameClient.MainForm.resources
